@@ -1,0 +1,77 @@
+body{
+font-family: 'PT Sans Narrow', sans-serif;
+width:100%;
+
+
+}
+
+header{
+box-sizing:border-box;
+width:270px;
+height:30px;
+border:1px solid #AAABAB;
+border-radius:6px;
+align-content:center;
+text-align:center;
+/*padding:10px;*/
+margin:auto;
+
+}
+
+
+/*INDEX*/
+.ititulo{
+width:100%;
+text-align:center;
+}
+.imaster, .inmaster{
+ box-sizing:border-box; 
+border: 1px solid #CDCFCF;
+width:270px;
+height:240px;
+text-align:center; 
+border-radius:7px;
+margin:auto;
+padding-top:30px;
+margin-top:20px;
+}
+
+.ibot1, .ibot2{ 
+border-radius:3px;
+background:#1E53E8;
+width:80px;
+margin-bottom:10px;
+height:24px;
+color: white;
+padding:5px;
+display:block;
+margin:auto;
+}
+
+
+.rtitulo{
+  text-align:center;
+width:270px;
+margin:auto; w
+}
+.rmaster{
+ box-sizing:border-box; 
+border: 1px solid #CDCFCF;
+width:270px;
+height:340px;
+text-align:center; 
+border-radius:7px;
+margin:auto;
+padding-top:30px;
+margin-top:20px;
+}
+
+
+h4{
+background:red;
+width:270px;
+height:30px;
+margin:auto;
+text-align:center;
+}
+
